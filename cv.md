@@ -11,7 +11,9 @@ My name is Evgenia Radyuk, I am 33 years old. I like to learn something new, I c
 * Git
 * HTML
 * CSS
-```function multiply(a, b){
+## Code
+```
+function multiply(a, b){
  const n = a * b;
   return n;
 }
