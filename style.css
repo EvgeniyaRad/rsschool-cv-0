@@ -43,3 +43,10 @@ body {
     color: #4d2323;
   }
   
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  * {
+    box-sizing: border-box;
+  }
