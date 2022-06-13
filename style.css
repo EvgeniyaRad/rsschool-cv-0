@@ -1,13 +1,13 @@
 .header {
-    border: 1px solid red;
+    border: 1px solid RosyBrown;
 }
 
 .main {
-    border: 1px solid red
+    border: 1px solid RosyBrown
 }
 
 .footer {
-    border: 1px solid red
+    border: 1px solid RosyBrown
 }
 
 body {
@@ -50,3 +50,13 @@ body {
   * {
     box-sizing: border-box;
   }
+
+  .logoonpay img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-size: cover;
+
+  }
+
+
